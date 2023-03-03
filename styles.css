@@ -1,0 +1,60 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+div {
+	margin-top: 25px;
+	padding: auto;
+}
+
+#career-goals {
+	border-bottom-style: solid;
+	border-bottom-color: grey;
+	border-width: 3px ;
+	margin-bottom: 25px;
+}
+
+#me {
+	height: 300px;
+}
+
+#color, #place, #ritual{
+	height: 30px;
+	background-color: yellow;
+	border-radius: 10px;
+}
